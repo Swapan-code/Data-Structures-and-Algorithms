@@ -11,6 +11,9 @@ struct TreeNode
   TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// Time Complexity: O(N)
+// Space Complexity: O(H) where H is the height of the tree
+
 class Solution
 {
 public:
