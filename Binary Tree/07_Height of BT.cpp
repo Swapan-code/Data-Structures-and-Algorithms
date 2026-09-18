@@ -12,7 +12,7 @@ struct TreeNode
 };
 
 // Time Complexity: O(N)
-// Space Complexity: O(N)
+// Space Complexity: O(H)
 class Solution
 {
 public:
